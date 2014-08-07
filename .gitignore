@@ -92,3 +92,11 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+
+# =========================
+# Application Specific Files
+# =========================
+
+# Settings configuration file
+settings.cfg
